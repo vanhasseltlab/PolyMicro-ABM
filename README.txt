@@ -1,6 +1,6 @@
 An Agent based modeling framework of an interactive, polymicrobial community during antimicrobial treatment
 
-This folder contains all scripts and generated data needed to reproduce the analysis and figures shown in the manuscript ‘Pharmacodynamics of interspecies interactions’. All code was produced by Catharina Herzberg, LACDR, Leiden University, The Netherlands.
+This folder contains all scripts and processed data needed to reproduce the analysis and figures shown in the manuscript ‘Pharmacodynamics of interspecies interactions’. All code was produced by Catharina Herzberg, LACDR, Leiden University, The Netherlands.
 
 Requirements/System:
 
