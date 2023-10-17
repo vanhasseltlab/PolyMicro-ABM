@@ -1,14 +1,14 @@
 # PolyMicro-ABM
-An Agent based modeling framework of an interactive, polymicrobial community during antimicrobial treatment
+## An Agent based modeling framework of an interactive, polymicrobial community during antimicrobial treatment
 
 This folder contains all scripts and generated data needed to reproduce the analysis and figures shown in the manuscript ‘Pharmacodynamics of interspecies interactions’. All code was produced by Catharina Herzberg, LACDR, Leiden University, The Netherlands.
 
-Requirements/System:
+## Requirements/System:
 
 The analysis has been performed with python 3.8. The python package mesa 1.1.1 was used to create the model (Model_v19.py). Further dependencies: matplotlib 3.5.3, numpy 1.23.3, pandas 1.4.4, seaborn 0.12.0
 
 
-Overview of files and order of execution:
+## Overview of files and order of execution:
 
 The analysis was performed in 3 steps: 1. simulation, 2. data processing 3. plotting. The following lists all files in this software supplementary in the order of execution. 
 
