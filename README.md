@@ -3,6 +3,8 @@
 
 This folder contains all scripts and processed data needed to reproduce the analysis and figures shown in the manuscript ‘Pharmacodynamics of interspecies interactions’. All code was produced by Catharina Herzberg, LACDR, Leiden University, The Netherlands.
 
+DOI: https://zenodo.org/records/10039816
+
 ## Requirements/System:
 
 The analysis has been performed with python 3.8. The python package mesa 1.1.1 was used to create the model (Model_v19.py). Further dependencies: matplotlib 3.5.3, numpy 1.23.3, pandas 1.4.4, seaborn 0.12.0
